@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=dboard
+comment0.target=ShapeController(DrawingBoard)
+comment0.text=\r\n\ Constructs\ a\ ShapeController\ object.\r\n\ \r\n\ @param\ dboard\ the\ DrawingBoard\ this\ Controller\ controls.\r\n
+numComments=1

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=db
+comment0.target=ShapeTextDisplay(DrawingBoard)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ShapeTextDisplay\r\n
+comment1.params=
+comment1.target=void\ shapeChanged()
+comment1.text=\r\n\ Notifies\ the\ output\ that\ textual\ information\ has\ changed\ and\ needs\ to\ be\r\n\ updated.\r\n
+numComments=2

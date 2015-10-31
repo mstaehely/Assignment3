@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=corner\ height
+comment0.target=Cross(java.awt.Point,\ int)
+comment0.text=\r\n\ Constructor\ of\ class\ Cross.\r\n\ \r\n\ @param\ corner\ the\ upper\ left\ corner\ of\ the\ bounding\ box.\r\n\ @param\ height\ the\ maximum\ height\ of\ the\ object.\r\n\ \r\n\ @throws\ IllegalArgumentException\ if\ either\ coordinate\ of\ the\ corner\ is\ less\ \r\n\ than\ 0\ or\ the\ height\ is\ zero.\ Also\ thrown\ if\ the\ height\ is\ not\ divisible\ by\ 5.\r\n
+comment1.params=x\ y
+comment1.target=boolean\ isOn(int,\ int)
+comment1.text=\r\n\ Tests\ to\ see\ if\ a\ point\ is\ located\ on\ the\ Shape.\r\n\ \r\n\ @param\ x\ the\ x-coordinate\ of\ the\ point\ to\ be\ tested.\r\n\ @param\ y\ the\ y-coordinate\ of\ the\ point\ to\ be\ tested.\r\n\ \r\n\ @return\ true\ if\ the\ given\ x,y\ coordinates\ are\ on\ the\ Shape.\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ String\ representation\ of\ a\ cross\ shape.\r\n\ \r\n\ @returns\ string\ describing\ the\ cross.\r\n
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+comment3.text=\r\n\ Paints\ the\ shape\ for\ a\ GUI.\r\n\ \r\n\ @param\ g\ the\ Graphics\ object\ used\ to\ paint\ the\ shape.\r\n
+numComments=4

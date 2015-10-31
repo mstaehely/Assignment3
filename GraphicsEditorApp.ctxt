@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Main\ method\ for\ using\ a\ GraphicsEditorApp\ object.\r\n\ \r\n\ @param\ args\ not\ used\ in\ this\ context.\r\n
+comment1.params=
+comment1.target=GraphicsEditorApp()
+comment1.text=\r\n\ Constructs\ a\ new\ GraphicsEditorApp\ object.\r\n
+numComments=2

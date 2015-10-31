@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=dboard
+comment0.target=ShapeGraphicDisplay(DrawingBoard)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ShapeGraphicDisplay\r\n\ \r\n\ @param\ dboard\ the\ DrawingBoard\ object\ this\ listener\ will\ register\ to.\r\n
+comment1.params=
+comment1.target=void\ shapeChanged()
+comment1.text=\r\n\ Updates\ the\ graphical\ display\ if\ the\ model\ state\ changes.\r\n
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment2.text=\r\n\ Method\ used\ to\ display\ each\ Shape\ object.\ Knowledge\ of\ Shape\ objects\ drawing\r\n\ is\ implicit\ to\ each\ Shape.\r\n\ \r\n\ @param\ g\ the\ Graphics\ object\ used\ to\ draw\ the\ Shapes.\r\n
+numComments=3
